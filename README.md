@@ -7,7 +7,7 @@ This repository provides the python based program for Coronal Mass Ejection(CME)
 
 The folder `Model_code` consist of python notebooks for geometrical relation and different kinetmatic approach considered for CME propagation. File `Geometrical Parameters.ipynb` provides a insight of cone geometry for advance DBM. `Advance DBM.ipynb` provides a forecast of CME arrival at 1 AU with the cone geometry visuals. `kinematics-1.ipynb` and `kinematics-2.ipynb` file provides two different kinetic approach for CME propagation (Those two kinetic approach are self-similar cone expansion and flatteing cone expansion) \
 \
-A more detailed description of Drag Based Model, this python implementation and its validation is given in [my M.Sc. thesis](https://www.overleaf.com/read/tprsqfwsmgkh).\
+A more detailed description of Drag Based Model, this python implementation and its validation is given in [my M.Sc. thesis](https://www.overleaf.com/read/tprsqfwsmgkh).
 
 
 # Note
