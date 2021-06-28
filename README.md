@@ -1,4 +1,6 @@
 # DBM-Drag Based Model
+[![DOI](https://zenodo.org/badge/351071066.svg)](https://zenodo.org/badge/latestdoi/351071066)
+\
 This repository provides the python based program for Coronal Mass Ejection(CME) arrival forecast at 1 AU using Drag Based Model(DBM) [Vrˇsnak et al. (2013)](https://link.springer.com/article/10.1007/s11207-012-0035-4).\
 \
 `DBM_Forecast.ipynb` file provides a program for the ICME arrival forecast at 1 AU using DBM. `ADBM_SelfSimilar_Cone.ipynb` consider self-similar expansion during CME propagation in heliosphere and provides CME arrival time. In `ADBM_Flattening_Cone.ipynb` flattening cone evolution is assumed during CME propagation. ALL the files here provides **V-R plot**,**V-R-t plot** for CME propagation along with **CME arrival date and time** and **Impact speedd at 1AU** as output. In case of ADBM **CME geometry** is also provided in output.  
